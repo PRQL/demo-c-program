@@ -1,0 +1,3 @@
+[submodule "prql"]
+	path = prql
+	url = git@github.com:PRQL/prql.git
